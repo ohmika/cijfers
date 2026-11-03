@@ -1,4 +1,4 @@
-const CACHE = 'double-numbers-v1';
+const CACHE = 'dubbel';
 const ASSETS = [
   './',
   './index.html',
