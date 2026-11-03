@@ -1,4 +1,4 @@
-const CACHE = 'dubbel';
+const CACHE = 'dubbel-v2';
 const ASSETS = [
   './',
   './index.html',
